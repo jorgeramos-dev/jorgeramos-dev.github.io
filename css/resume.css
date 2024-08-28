@@ -150,6 +150,12 @@ section.resume-section .resume-item .resume-date {
   min-width: none;
 }
 
+.ionic {
+  align-items: center;
+  width: 40px;
+  height: 40px;
+}
+
 @media (min-width: 768px) {
   section.resume-section {
     min-height: 100vh;
