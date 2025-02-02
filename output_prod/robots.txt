@@ -1,5 +1,0 @@
-User-agent: *
-Disallow: /blog/tags/
-Disallow: /blog/categories/
-
-Sitemap: https://jorgeramos-dev.github.io/sitemap.xml
